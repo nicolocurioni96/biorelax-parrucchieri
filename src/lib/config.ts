@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Bio-Relax Parrucchieri",
+  category: "barbershop",
   tagline: "La tradizione del taglio perfetto, dal cuore di Vignola.",
   city: "Vignola",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Corso Italia, 73, 41058 Vignola MO",
   phone: "+39 345 070 2938",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Corso%20Italia%2C%2073%2C%2041058%20Vignola%20MO",
